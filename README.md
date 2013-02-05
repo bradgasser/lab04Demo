@@ -10,7 +10,7 @@ I am writing in **bold** or _italics_
 > this is a quote
 This is a 'code' block:
 
-```
+```C++
 int main()
   cout << "Hello" << endl;
   }
