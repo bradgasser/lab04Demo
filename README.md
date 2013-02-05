@@ -10,11 +10,11 @@ I am writing in **bold** or _italics_
 > this is a quote
 This is a 'code' block:
 
-'''
+```
 int main()
   cout << "Hello" << endl;
   }
-'''
+```
 
 Numbered Lists
   1. One
