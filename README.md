@@ -2,7 +2,9 @@
 This is my information
   +Name: Brad
   +Email: bgasser@usc.edu
-  
+
+This repo now contains HelloWorld.cpp
+
 ## Header 2
 
 ### Header 3
