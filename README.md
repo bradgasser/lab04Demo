@@ -1,9 +1,7 @@
 # Student Information
 This is my information
-  +Name: Brad
-  +Email: bgasser@usc.edu
-
-This repo now contains HelloWorld.cpp
+  + Name: Brad
+  + Email: bgasser@usc.edu
 
   + Name: Brad
   + Email: bgasser@usc.edu
