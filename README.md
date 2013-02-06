@@ -1,4 +1,4 @@
-# Student's Information
+# Student Information
 This is my information
   + Name: Brad
   + Email: bgasser@usc.edu
